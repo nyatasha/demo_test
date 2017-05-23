@@ -1,0 +1,21 @@
+#myFileInput {
+    display:none;
+}
+#customfileupload
+{
+    display: inline;
+    background-color: #fff;
+    font-size: 14px;
+    padding: 10px 30px 10px 10px;
+    width: 250px;
+    border: 1px solid #999;
+    box-shadow: inset 1px 1px 5px #ccc;
+    -webkit-box-shadow: inset 1px 1px 5px #ccc;
+    -moz-box-shadow: inset 0px 0px 4px #ccc;
+    -ms-box-shadow: inset 0px 0px 4px #ccc;
+    -o-box-shadow: inset 0px 0px 4px #ccc;
+    z-index: 1;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
